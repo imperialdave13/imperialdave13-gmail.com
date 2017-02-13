@@ -1,0 +1,18 @@
+.container {
+display: flex;
+}
+.main {
+width: 65%;
+}
+.sidebar {
+width: 35%;
+padding: 2%;
+background: silver;
+}
+.photo {
+width: 100%;
+border-radius: 50%;
+}
+a {
+color: black;
+}    
